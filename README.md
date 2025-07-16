@@ -99,4 +99,4 @@ This project implements a hybrid deep learning model that classifies diabetic re
 ## Notes
 
 - This repository includes only the code and components relevant to the **FCN-CLIP with CBAM** model developed by Gyumin Lee.
-- For the full project, including zero-shot and ranking-aware models, please refer to the original course repository.
+- This is not the full version of the final project. 

@@ -86,7 +86,18 @@ This project implements a hybrid deep learning model that classifies diabetic re
 | CBAM Reduction   | 16           |
 
 ---
+## Visualization
 
+### Attention Map (Mild DR Example)
+![Attention Map](./AttentionMap.png)
+
+### Confusion Matrix
+![Confusion Matrix](./confusionMatrix.png)
+
+### AUROC Curves
+![AUROC](./AUROC.png)
+
+---
 ## References
 
 1. Radford et al., *Learning Transferable Visual Models from Natural Language Supervision*, ICML 2021.

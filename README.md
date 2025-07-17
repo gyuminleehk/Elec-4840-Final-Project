@@ -53,7 +53,7 @@ This project implements a hybrid deep learning model that classifies diabetic re
 2. Set the working directory:
    ```python
    import os
-   os.chdir('/content/drive/MyDrive/elec4840/Code_Template_new/Q1')
+   os.chdir('./fcnclip')
    ```
 3. Download and import all utility modules from the notebook’s first code cells.
 4. Execute all code cells **sequentially from top to bottom**.

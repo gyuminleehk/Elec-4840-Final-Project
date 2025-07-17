@@ -31,7 +31,7 @@ This project implements a hybrid deep learning model that classifies diabetic re
 - Place all training images in a folder named `train_images` in the same directory as the notebook.
 
 ```
-/Q1
+/fcnclip
  ├─ train_images/
  │   └─ *.png
 ```
@@ -40,7 +40,7 @@ This project implements a hybrid deep learning model that classifies diabetic re
 - Place the Messidor images inside the `IMAGES` folder:
 
 ```
-/Q1
+/fcnclip
  ├─ IMAGES/
  │   └─ *.tif
 ```
